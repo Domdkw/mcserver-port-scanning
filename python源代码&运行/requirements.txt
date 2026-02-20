@@ -1,2 +1,0 @@
-# Project dependencies
-mcstatus>=11.1.0
